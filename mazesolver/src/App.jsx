@@ -193,19 +193,6 @@ function App() {
           className="maze-canvas"
         />
       </div>
-      
-      <div className="instructions">
-        <h3>Instructions:</h3>
-        <ul>
-          <li><strong>Generate:</strong> Create a new random solvable maze</li>
-          <li><strong>Solve DFS:</strong> Find path using Depth-First Search</li>
-          <li><strong>Solve BFS:</strong> Find path using Breadth-First Search</li>
-        </ul>
-        <p>
-          <strong>Colors:</strong> White = free path, Black = wall, Green = solution path, 
-          Gray = visited cells, Blue = start (0,0), Red = goal (319,319)
-        </p>
-      </div>
     </div>
   );
 }
