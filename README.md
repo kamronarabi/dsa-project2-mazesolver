@@ -5,6 +5,6 @@ Compares solving mazes using BFS and DFS graph traversal
 Use this link: https://dsa-project2-mazesolver.vercel.app/
 
 # How to use (locally)
-Clone repo to local IDE
-npm i
-npm run dev
+1. Clone repo to local IDE
+2. npm i
+3. npm run dev
